@@ -1,0 +1,11 @@
+Exercise: 
+Question)Show two ways to concatenate the following two strings together to get the string "Hi, mom.":
+
+String hi = "Hi, ";
+String mom = "mom.";
+
+Ans)First way:-
+(hi + mom)
+
+Second way:-
+(hi.concat(mom))
